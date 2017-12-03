@@ -25,6 +25,7 @@
 		4933AC981F8185DE00E56463 /* PlacesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4933AC971F8185DE00E56463 /* PlacesTableViewCell.swift */; };
 		495D3E181F8CCC77005A87C5 /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495D3E171F8CCC77005A87C5 /* ContentViewController.swift */; };
 		495D3E1B1F8CCCD5005A87C5 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495D3E1A1F8CCCD5005A87C5 /* PageViewController.swift */; };
+		49B9C77D1FD49FED00785051 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 49B9C77C1FD49FED00785051 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		4933AC971F8185DE00E56463 /* PlacesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesTableViewCell.swift; sourceTree = "<group>"; };
 		495D3E171F8CCC77005A87C5 /* ContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
 		495D3E1A1F8CCCD5005A87C5 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		49B9C77C1FD49FED00785051 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		4933AC741F81829100E56463 = {
 			isa = PBXGroup;
 			children = (
+				49B9C77C1FD49FED00785051 /* .gitignore */,
 				4933AC7F1F81829100E56463 /* ThePlaces */,
 				4933AC7E1F81829100E56463 /* Products */,
 				4925F96A1F877D9500FA65E7 /* Frameworks */,
@@ -200,6 +203,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49B9C77D1FD49FED00785051 /* .gitignore in Resources */,
 				4933AC8E1F81829100E56463 /* LaunchScreen.storyboard in Resources */,
 				4933AC8B1F81829100E56463 /* Assets.xcassets in Resources */,
 				4933AC861F81829100E56463 /* Main.storyboard in Resources */,
