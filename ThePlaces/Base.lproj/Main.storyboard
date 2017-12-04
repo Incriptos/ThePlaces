@@ -728,7 +728,7 @@
                                 <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="dcA-Tk-DAU" secondAttribute="height" multiplier="91:25" id="7Pb-1i-OzY"/>
-                                    <constraint firstAttribute="width" constant="182" id="VAi-xS-XwU"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="182" id="VAi-xS-XwU"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="AppleSDGothicNeo-SemiBold" family="Apple SD Gothic Neo" pointSize="20"/>
                                 <state key="normal" title="Button">

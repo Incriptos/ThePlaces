@@ -15,7 +15,6 @@ class WebViewController: UIViewController, WKNavigationDelegate {
     var progressView: UIProgressView!
     var url: URL!
     
-    
     deinit {
         webView.removeObserver(self, forKeyPath: #keyPath(WKWebView.estimatedProgress))
     }
